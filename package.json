@@ -1,0 +1,20 @@
+{
+  "name": "solving_logic_exercises",
+  "version": "1.0.0",
+  "description": "Personal repository that I use to save some logic problems that I solved.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node build/checkBrackets.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/araujoricardo/solving_logic_exercises.git"
+  },
+  "author": "Ricardo Araujo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/araujoricardo/solving_logic_exercises/issues"
+  },
+  "homepage": "https://github.com/araujoricardo/solving_logic_exercises#readme"
+}
