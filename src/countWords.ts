@@ -5,13 +5,6 @@ Count how many times each word apears.
 students or students students students recruitment"
 */
 
-
-// var str = "Are you building any innovative solution solution for your students or students students students recruitment"
-// var count = {};
-// str.split(" ").forEach((i) => { count[i] = ++count[i]|| 1});
-//  console.log(count)
-
-
 const text = "Are you building any innovative solution solution for your students or students students students recruitment"
 
 const splittedText = text.split(" ")
