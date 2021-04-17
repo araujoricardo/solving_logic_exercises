@@ -10,7 +10,7 @@ const text = "Are you building any innovative solution solution for your student
 const splittedText = text.split(" ")
 
 // solution using object
-const countObj: any = {}
+const countObj: { [key: string]: number } = {}
 splittedText.forEach((word: string)=> countObj[word] = ++countObj[word] || 1)
 
 console.log(countObj)
